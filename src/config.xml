@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <source>D:\works\workspace2\Video\src</source>
+    <binaries>
+  	  <binary>D:\works\workspace2\Video\bin\classes</binary>
+	  <binary>D:\tools\adt-bundle-windows-x86-20140321\sdk\platforms\android-19\android.jar</binary>
+  	  <binary>D:\works\workspace2\Video\libs\test.jar</binary>
+   </binaries>
+</config>
